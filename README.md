@@ -1,2 +1,10 @@
 # BestProjects
-This are some of the best projects that I have developed in my career.
+Throughout my career, I have had the privilege of working on several remarkable projects that have not only challenged me professionally but also allowed me to showcase my skills and passion. These projects stand as a testament to my dedication and expertise in my field. 
+
+1. One of my most memorable endeavors was designing and implementing an end-to-end system for the extraction of multiple types of data from scanned medical invoices for a renowned startup based in Greater Noida. This project involved collaborating with a cross-functional team, where I played a pivotal role in developing the platform's architecture, integrating various modules, and ensuring seamless functionality. The successful completion of this project not only boosted the company's online presence but also significantly improved customer experience and sales.
+
+2. Another notable project was creating a robust and user-friendly ML-based system for court judgment prediction and recommendation. This project is named CJPR - Court Judgement Prediction and Recommendation. I have developed an ML model using LLMs (Large Language Models) to predict the judgment accepted or rejected. If accepted then recommend the top 10 most similar cases that are already happened in Indian history.
+
+3. Furthermore, I spearheaded a complex data analytics and data science project which is provided by a student of Kingston University (London). In this endeavor, I worked on a team responsible for gathering, cleansing, and analyzing vast amounts of sports data to generate actionable insights and results. Utilizing advanced machine learning algorithms and predictive models, we provided the client with valuable information that empowered them to make data-driven decisions, optimize processes, and enhance their overall performance and we also implemented a mathematical theory for their financial task. 
+
+Each of these projects represents a milestone in my career, showcasing my ability to deliver innovative solutions, meet tight deadlines, and collaborate effectively with diverse teams. These experiences have enriched my professional journey and fueled my determination to continually push the boundaries of my expertise and take on new and exciting challenges in the future.
